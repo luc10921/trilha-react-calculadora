@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+
+.content {
+  background-color: #7fb4a2;
+  width: 50vw;
+  min-width: 300px;
+  color: blueviolet;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
